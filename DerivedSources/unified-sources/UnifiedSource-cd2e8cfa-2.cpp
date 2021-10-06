@@ -1,0 +1,8 @@
+#include "assembler/MacroAssemblerCodeRef.cpp"
+#include "assembler/MacroAssemblerMIPS.cpp"
+#include "assembler/MacroAssemblerPrinter.cpp"
+#include "assembler/MacroAssemblerRISCV64.cpp"
+#include "assembler/MacroAssemblerX86Common.cpp"
+#include "assembler/PerfLog.cpp"
+#include "assembler/Printer.cpp"
+#include "assembler/ProbeContext.cpp"

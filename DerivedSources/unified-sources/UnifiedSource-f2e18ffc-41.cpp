@@ -1,0 +1,6 @@
+#include "runtime/WeakMapPrototype.cpp"
+#include "runtime/WeakObjectRefConstructor.cpp"
+#include "runtime/WeakObjectRefPrototype.cpp"
+#include "runtime/WeakSetConstructor.cpp"
+#include "runtime/WeakSetPrototype.cpp"
+#include "runtime/WideningNumberPredictionFuzzerAgent.cpp"

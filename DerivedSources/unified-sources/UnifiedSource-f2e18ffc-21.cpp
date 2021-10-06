@@ -1,0 +1,8 @@
+#include "runtime/JSGenerator.cpp"
+#include "runtime/JSGeneratorFunction.cpp"
+#include "runtime/JSGlobalLexicalEnvironment.cpp"
+#include "runtime/JSGlobalObject.cpp"
+#include "runtime/JSGlobalObjectDebuggable.cpp"
+#include "runtime/JSGlobalObjectFunctions.cpp"
+#include "runtime/JSImmutableButterfly.cpp"
+#include "runtime/JSInternalPromise.cpp"

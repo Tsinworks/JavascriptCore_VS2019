@@ -1,0 +1,8 @@
+#include "bytecode/PreciseJumpTargets.cpp"
+#include "bytecode/ProgramCodeBlock.cpp"
+#include "bytecode/PropertyCondition.cpp"
+#include "bytecode/ProxyableAccessCase.cpp"
+#include "bytecode/PutByIdFlags.cpp"
+#include "bytecode/PutByStatus.cpp"
+#include "bytecode/PutByVariant.cpp"
+#include "bytecode/RecordedStatuses.cpp"

@@ -1,0 +1,8 @@
+#include "dfg/DFGTierUpCheckInjectionPhase.cpp"
+#include "dfg/DFGToFTLDeferredCompilationCallback.cpp"
+#include "dfg/DFGToFTLForOSREntryDeferredCompilationCallback.cpp"
+#include "dfg/DFGTransition.cpp"
+#include "dfg/DFGTypeCheckHoistingPhase.cpp"
+#include "dfg/DFGUnificationPhase.cpp"
+#include "dfg/DFGUseKind.cpp"
+#include "dfg/DFGValidate.cpp"

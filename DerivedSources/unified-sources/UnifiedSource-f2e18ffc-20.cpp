@@ -1,0 +1,8 @@
+#include "runtime/JSCell.cpp"
+#include "runtime/JSCustomGetterFunction.cpp"
+#include "runtime/JSCustomSetterFunction.cpp"
+#include "runtime/JSDataView.cpp"
+#include "runtime/JSDataViewPrototype.cpp"
+#include "runtime/JSDestructibleObjectHeapCellType.cpp"
+#include "runtime/JSFinalizationRegistry.cpp"
+#include "runtime/JSFunction.cpp"
